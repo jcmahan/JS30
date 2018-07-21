@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  background: #ffc600;
+  background: #0091ff;
 }
 
 *, *:before, *:after {
@@ -11,7 +11,7 @@ html {
 body {
   padding: 0;
   margin:0;
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Merienda', cursive;
 }
 
 h1 {
@@ -66,4 +66,12 @@ h1 {
 
 .hole.up .mole {
   top:0;
+}
+
+.button{
+  font-family: 'Exo', sans-serif;
+  padding: 25px; 
+  font-size: 40px; 
+  display: flex; 
+  justify-content: center; 
 }
